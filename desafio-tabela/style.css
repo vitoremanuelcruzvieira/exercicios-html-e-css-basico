@@ -1,0 +1,17 @@
+.produtos-moda th {
+    background-color: #BB86FC;
+    color: #FFFFFF;
+    padding: 10px;
+}
+
+.produtos-casa th {
+    background-color: #00C4B4;
+    color: #FFFFFF;
+    padding: 10px;
+}
+
+.fundo-valores td {
+    background-color: #424250;
+    color: #FFFFFF;
+    padding: 10px;
+}
